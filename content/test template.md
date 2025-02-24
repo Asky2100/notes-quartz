@@ -10,16 +10,15 @@ Hi~
 
 This is a video playing the song of Outer Wilds.
 
----
+<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//iframely.net/IfWWalR" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="autoplay *; encrypted-media *;"></iframe></div></div>
 
-<iframe src="//player.bilibili.com/player.html?aid=805938654&bvid=BV1X34y1U7mN&cid=420719295&p=1" scrolling="no" border="0" frameborder="no" marginwidth="0" marginheight="0" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 ---
 
 This is a song I like from Cyberpunk Edgerunners.
 
-<inframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1990743306&auto=1&height=66" allow="autoplay"></inframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7mykoq6R3BArsSpNDjFQTm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ---
