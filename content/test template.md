@@ -6,20 +6,11 @@ dg-content-classes: cards
 ---
 This is a test file for template.
 
-Hi~
+I follow [Quartz 4.0](https://quartz.jzhao.xyz/) and  [Quarz 4.0 部署记录](https://yelleis.top/p/quarz4.0-deployment-record/) to deploy my digital garden.
 
-This is a video playing the song of Outer Wilds.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//iframely.net/IfWWalR" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="autoplay *; encrypted-media *;"></iframe></div></div>
-
-
-
----
-
-This is a song I like from Cyberpunk Edgerunners.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7mykoq6R3BArsSpNDjFQTm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+you can simply run `npx quartz sync` every time you want to push updates to your repository.
 
 ---
 
