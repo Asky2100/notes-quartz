@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-title: test
+title: Template
 dg-created: 
 dg-content-classes: cards
 ---
@@ -10,7 +10,12 @@ I follow [Quartz 4.0](https://quartz.jzhao.xyz/) and  [Quarz 4.0 部署记录](
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-you can simply run `npx quartz sync` every time you want to push updates to your repository.
+you can simply run `npx quartz sync` every time you want to push updates to your repository after entering the following command in your terminal.
+```shell
+cd quartz
+```
+
+[Iframely](https://iframely.com/) is a uniform delivery service for all your various rich media embeds and URL data.
 
 ---
 
