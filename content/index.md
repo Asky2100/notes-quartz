@@ -19,6 +19,7 @@ Leave a comment below if you have any questions.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WsNJUSlzdWlmVple6k3u5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/vgxsj6rIraM?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
+
 # The Blog Name
 I'm haunted by it.
 
