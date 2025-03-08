@@ -1,6 +1,8 @@
 ---
 title: Hi, This is Tau~
 ---
+> [!quote]
+> Each man is the architect of his own fate.
 # About Me
 Self-introduction is quite a difficult thing for me.
 
