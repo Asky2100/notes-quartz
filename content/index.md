@@ -10,6 +10,16 @@ Leave a comment below if you have any questions.
 
 # The world as I see it
 
+## 桜🌸　
+
+> [!quote|cite]
+> 桜は元々、戦場へ赴く人からは嫌われていたんだ。花の寿命が短いからなぁ。僅かな間に一斉に咲いて、一斉に散る。未練など持たぬかのように、容易く枝を離れていく。だけど私は、その潔さが好きなのだ。
+> 
+> 「８６―エイティシックス―」[カイエ・タニヤ](https://anime-86.com/character/first-half/)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2OTteXok3ToILDN62hoV21?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 ## View on Language
 ### How language help us to think
 人在一天中可能会胡思乱想很多「色々と考える」，其中不乏对日常琐事的感叹「日常に対する小さな呟き」，也可能会有天才般的构想灵光闪动「煌めく天才的な発想」，但无论如何，未用言语表达出来的心思，都不真正属于自己。
@@ -19,8 +29,6 @@ Leave a comment below if you have any questions.
 ## Music
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WsNJUSlzdWlmVple6k3u5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/vgxsj6rIraM?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
 
 # The Blog Name
 I'm haunted by it.
@@ -36,10 +44,8 @@ My favorite song from *Cyber Punk Edge Runners*.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BgztqoQ6NHOhNg5yq8SUQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I've been Osaka for about 5 months and I have met so many fabulous people there. The scenery I saw in Osaka, the people I met, and the wonderful memories I made with them made me fall in love with Osaka. 
-
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/xkwcnffhTLY?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
 # Games
+
 - Outer Wilds
 - Rain World
 - 7 Years From Now (七年後で待ってる)
