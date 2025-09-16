@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/","title":"Template","contentClasses":"cards","created":"2025-09-16T18:50:29.144+08:00","updated":"2025-09-16T18:50:29.144+08:00"}
+{"dg-publish":true,"permalink":"/Template/","title":"Template","contentClasses":"cards","created":"2025-09-16T18:50:29.144+08:00","updated":"2025-09-16T18:50:29.144+08:00"}
 ---
 
 
