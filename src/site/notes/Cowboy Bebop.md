@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cowboy Bebop/","title":"Cowboy Bebop","created":"2025-09-16T18:50:29.094+08:00","updated":"2025-09-16T18:50:29.095+08:00"}
+{"dg-publish":true,"permalink":"/cowboy-bebop/","title":"Cowboy Bebop","created":"2025-09-16T18:50:29.094+08:00","updated":"2025-09-16T18:50:29.095+08:00"}
 ---
 
 ![Pasted image 20240725231153.png](/img/user/Pasted%20image%2020240725231153.png)

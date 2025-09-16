@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Next time/lecture 1/","tags":["FredJelinek","JoanBresan"],"created":"2025-09-16T18:50:29.095+08:00","updated":"2025-09-16T18:50:29.095+08:00"}
+{"dg-publish":true,"permalink":"/next-time/lecture-1/","tags":["FredJelinek","JoanBresan"],"created":"2025-09-16T18:50:29.095+08:00","updated":"2025-09-16T18:50:29.095+08:00"}
 ---
 
 #FredJelinek(1932.11.18-2010.09.14)
