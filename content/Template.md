@@ -4,6 +4,7 @@ title: Template
 dg-created: 
 dg-content-classes: cards
 ---
+Hi~
 
 This is a test file for template.
 
