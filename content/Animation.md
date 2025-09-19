@@ -1,5 +1,9 @@
 ---
 dg-created: 2025-03-01T00:00:00
+title: "Cartoons"
+featured: true
+description: "test!"
+image: "./Pasted-image-20240725231248.png"
 ---
 Animations below enlighten me much on my world views.
 

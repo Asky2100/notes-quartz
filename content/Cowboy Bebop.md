@@ -1,7 +1,10 @@
 ---
 dg-publish: true
 dg-created: 
-title: Cowboy Bebop
+title: "Cowboy Bebop"
+featured: true
+description: "test!"
+image: "./Pasted-image-20240725231153.png"
 ---
 ![[Pasted image 20240725231153.png]]
 

@@ -4,7 +4,9 @@ created: 2023-09-15
 publish: true
 ---
 > [!quote]
-> Each man is the architect of his own fate.
+> - Each man is the architect of his own fate.  
+> - “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+
 # About Me
 Self-introduction is quite a difficult thing for me.
 

@@ -1,5 +1,9 @@
 ---
 dg-created: 2025-03-01T00:00:00
+featured: true
+title: "Games"
+description: "Test!"
+image: "./Pasted-image-20240203115400.png"
 ---
 Here is a list of Games I played or I want to play.
 

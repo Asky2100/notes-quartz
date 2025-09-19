@@ -4,3 +4,130 @@
 body {
 --font-default: "LXGW WenKai Screen", sans-serif;
 }
+
+/* === Styles for Featured Cards === */
+
+.featured-cards-title {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+}
+
+.card-grid {
+  display: flex;
+  overflow-x: auto;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 1rem 0;
+  scroll-behavior: smooth;
+
+  /* Scrollbar styling */
+  &::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: var(--lightgray);
+    border-radius: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--gray);
+    border-radius: 4px;
+
+    &:hover {
+      background: var(--darkgray);
+    }
+  }
+}
+
+.card-container {
+  display: block;
+  position: relative;
+  padding: 1.5rem;
+  border-radius: 12px;
+  background-color: var(--darkgray);
+  overflow: hidden;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  min-height: 200px;
+  min-width: 320px;
+  flex-shrink: 0;
+  z-index: 0;
+
+  /* Enhanced shadow for carousel effect */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.card-container:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+}
+
+.card-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: var(--card-bg);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.4s ease;
+  border-radius: 12px;
+}
+
+.card-container.has-image .card-bg {
+  filter: brightness(0.8);
+  transform: scale(1.05);
+}
+
+.card-container.has-image:hover .card-bg {
+  filter: brightness(1);
+  transform: scale(1);
+}
+
+.card-container.no-image .card-bg {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+}
+
+.card-content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.card-content h3 {
+  margin: 0 0 0.5rem 0;
+  color: #FFFFFF !important;
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.card-content p {
+  margin: 0;
+  color: #F3F4F6 !important;
+  font-size: 1rem;
+  line-height: 1.4;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .card-container {
+    min-width: 280px;
+    min-height: 180px;
+  }
+
+  .card-content h3 {
+    font-size: 1.2rem;
+  }
+
+  .card-content p {
+    font-size: 0.9rem;
+  }
+}
