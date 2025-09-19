@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-created: 
+modified: 2025-09-19
 title: "Cowboy Bebop"
 featured: true
 description: "test!"
