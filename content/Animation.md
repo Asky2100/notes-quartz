@@ -1,5 +1,5 @@
 ---
-title: 动漫推荐
+title: Animation
 modified: 2025-09-19
 featured: true
 description: 那些对我影响至深的动漫
