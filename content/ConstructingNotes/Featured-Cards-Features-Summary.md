@@ -42,6 +42,7 @@ The featured cards system displays notes with `featured: true` frontmatter on th
 
 ## Technical Implementation
 - **Filter System**: Automatically finds files with `featured: true` frontmatter
+- **Priority Sorting**: Cards with `priority` field appear first (lower numbers first), cards without priority appear after in random order
 - **Image Support**: Handles both local images (slugified paths) and remote URLs
 - **Typography**: Custom font weights and text shadows for optimal readability
 - **Accessibility**: Proper semantic markup and keyboard navigation support
@@ -52,6 +53,7 @@ The featured cards system displays notes with `featured: true` frontmatter on th
 title: "Note Title"
 description: "Brief description"
 featured: true
+priority: 0                # Optional: lower numbers appear first (0 = highest priority)
 image: "optional-image.png"  # Optional
 tags: ["tag1", "tag2"]       # Optional
 ---

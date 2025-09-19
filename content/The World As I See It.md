@@ -3,7 +3,9 @@ dg-created: 2025-04-03T23:28:00
 modified: 2025-09-19
 featured: true
 description: My basic views on the world I see.
+image: "Attachment/seascape-in-kobe.jpeg"
 title: The World As I See It
+priority: 0
 ---
 Some blogs inspire and drive me to think more about how to explore, probe and understand this world.
 

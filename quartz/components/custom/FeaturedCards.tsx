@@ -3,7 +3,24 @@ import { formatDate, getDate } from "../Date"
 import readingTime from "reading-time"
 
 const FeaturedCards: QuartzComponent = ({ allFiles, cfg }: QuartzComponentProps) => {
-  const featuredPages = allFiles.filter((file) => file.frontmatter?.featured)
+  const featuredPages = allFiles
+    .filter((file) => file.frontmatter?.featured)
+    .sort((a, b) => {
+      const priorityA = a.frontmatter?.priority
+      const priorityB = b.frontmatter?.priority
+
+      // If both have priority, sort by priority (lower numbers first)
+      if (priorityA !== undefined && priorityB !== undefined) {
+        return Number(priorityA) - Number(priorityB)
+      }
+
+      // Files with priority come first, files without priority come after
+      if (priorityA !== undefined && priorityB === undefined) return -1
+      if (priorityA === undefined && priorityB !== undefined) return 1
+
+      // Both files have no priority - maintain original order (effectively random)
+      return 0
+    })
 
   return (
     <div className="card-grid">

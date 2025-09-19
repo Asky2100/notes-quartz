@@ -195,6 +195,7 @@ Add these fields to your markdown files:
 title: "Your Title"
 description: "Your description"
 featured: true
+priority: 0                # Optional: lower numbers appear first (0 = highest priority)
 image: "image-filename.png"  # Use slugified filename (spaces → hyphens)
 ---
 ```
@@ -217,7 +218,8 @@ image: "https://example.com/image.png"
 2. **Layout Integration:** Use `ConditionalRender` to show IndexPage only on the index page
 3. **No Content Duplication:** IndexPage component doesn't render content - the layout handles that separately
 4. **Filtering:** Featured cards automatically filter files with `featured: true` frontmatter
-5. **Responsive Design:** Cards use CSS Grid with responsive columns
+5. **Priority Sorting:** Cards with `priority` field appear first (lower numbers first), cards without priority appear after in random order
+6. **Responsive Design:** Cards use CSS Grid with responsive columns
 
 ## Common Issues & Solutions
 
