@@ -1,17 +1,20 @@
 ---
 dg-publish: true
 modified: 2025-09-19
-title: "Cowboy Bebop"
+title: Cowboy Bebop
 featured: true
-description: "test!"
-image: "./Pasted-image-20240725231153.png"
+description: test!
+image: Attachment/cowboy-bebop-character-wall.png
+tags:
+  - 娯楽
 ---
-![[Pasted image 20240725231153.png]]
+![[cowboy-bebop-character-wall.png]]
+
 
 <div style="left: 0; width: 100%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/0VybrPIFPWQo60U1WS60Zm?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
 # Spike (スパイク)
-![[Pasted image 20240725231248.png]]
+![[cowboy-bebop-spike.png]]
 永遠に続くものはない、あらゆる物に終わりは来る。それは自然の摂理というやつだ。
 
 食い物はとても大切だ。何しろ人間の身体はそいつが食ったもんでできているわけだ。もし俺のクローン人間がいるとして、そいつがハンバーガー以外食ったことはないとしよう。そいつと俺は遺伝子的には同じでも、まったく違った人間になるはずだ。「ハンバーグースパイク」は俺よりも怒りっぽいかもしれないし、日曜には教会に行くような男かもしれない。凶暴な賞金首かもしれないし、ワイシャツにはアイロンを当ててから着るような男かもしれない。いずれにしても、「ハンバーガースパイク」は俺とは別人だ。
@@ -35,10 +38,10 @@ image: "./Pasted-image-20240725231153.png"
 それは、この地上で何より不幸なことだ。
 
 # Jet
-![[Pasted image 20240725233425.png]]
+![[cowboy-bebop-jet.png]]
 盆栽は奥が深い。ただカットすればいいものじゃない。それぞれの盆栽には一つ一つ個性があり、そいっを活かしてやらなくてはいけないのだ。愚かな人間は、何でもかんでも同じように切り捨てようとする。はみ出した部分をただカット、カット、カットするだけだ。だがそのはみ出した部分こそが個性であり、オリジナリティなのだ。そんなことも分からない人間はハサミを持つべきじゃない。まったく、盆栽に気の毒だ。
 # Faye
-![[Pasted image 20240725232534.png]]
+![[cowboy-bebop-faye-with-cigarette.png]]
 戦いの基本は知ってる？
 
 思想のない男は嫌い。でも思想を押しつけてくる男はもっと嫌い。歯槽膿漏（しそうのうろう）の男も嫌い。息の臭い男じゃ、キスもできないしね。危険な男は好き。でも危険過ぎるのはちょっと考え物。弱気な男は嫌い。自分の弱さを分かった男は好き。楽観的な男が好き。
@@ -48,14 +51,14 @@ image: "./Pasted-image-20240725231153.png"
 綺麗ごとは嫌い。綺麗好きも嫌い。少しぐらい汚れているほうが、部屋も世の中も住みやすいってもんよ。「色白は七隈隠す」なんていうけど、隠し事も嫌いなの。シミ、そばかす、いいじゃい？誰もかれも同じ肌、同じ顔じゃ、どれか自分かは分からなくなるわよ。私はただでさえ自分は分からない。だから、手掛かりを消しちゃいけないの。全部、自分の道しるべだからね。
 
 # Edward
-![[Pasted image 20240725233159.png]]
+![[cowboy-bebop-edward.png]]
 エドです。宇宙は広いです。エドは宇宙の真理を探して旅をしています。裸足で歩くと、ビリビリします。ネットの海は広くて、色んなお魚もいてぐりぐりします。頭にも脳を乗せると、ワクワクします。
 
 ***真理はあると思って探すと無いですが、無いと思って探すとやっぱり無いです。*** 
 欲しいものは手に入らないですが、要るものが手に入りました。
 
 # アイン
-![[Pasted image 20240725233044.png]]
+![[cowboy-bebop-ain.png]]
 # Johann Wolfgang von Goethe (ゲーテ)
 手は手でなければ洗えない。得ようと思ったらまずは与えよう。
 

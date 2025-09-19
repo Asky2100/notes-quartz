@@ -1,10 +1,11 @@
 ---
-dg-created: 2025-03-01T00:00:00
-title: "Cartoons"
+title: 动漫推荐
 modified: 2025-09-19
 featured: true
-description: "test!"
-image: "./Pasted-image-20240725231248.png"
+description: 那些对我影响至深的动漫
+image: Attachment/cowboy-bebop-spike.png
+tags:
+  - 娯楽
 ---
 Animations below enlighten me much on my world views.
 
