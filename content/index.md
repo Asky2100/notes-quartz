@@ -6,8 +6,7 @@ publish: true
 > [!quote]
 > - Each man is the architect of his own fate.  
 
-Music I like recently: [杏の季節](https://music.163.com/#/song?id=678093 "Paly it on NetEasy music.")
-
+- 🎶 Music I like recently: [杏の季節](https://music.163.com/#/song?id=678093 "Paly it on NetEasy music.")
 # About Me
 Self-introduction is quite a difficult thing for me.
 
