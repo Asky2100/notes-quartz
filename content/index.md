@@ -27,11 +27,16 @@ I took linguistic notes on [[lecture 1]], and you can see I learnt [[lecture 1#�
 
 [[Template]] tells what I'm trying to do in my digital garden.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-        width="330" height="86"
-        src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
-        loading="lazy" allow="autoplay; encrypted-media">
-</iframe>
+<div style="position: relative; width: 100%; max-width: 330px; height: 86px;">
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+          style="width: 100%; height: 100%;"
+          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
+          loading="lazy" allow="autoplay; encrypted-media; fullscreen">
+  </iframe>
+  <noscript>
+    <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
+  </noscript>
+</div>
 
 My favorite song from *Cyber Punk Edge Runners*.
 
@@ -46,12 +51,25 @@ My favorite song from *Cyber Punk Edge Runners*.
 </head>
 <body>
   <!-- type=2 表示单曲; id=12345678 是一个示例; auto=0 表示不自动播放 -->
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-          width="100%" height="86"
-          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
-          loading="lazy" allow="autoplay; encrypted-media">
-  </iframe>
+  <div style="position: relative; width: 100%; height: 86px;">
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+            style="width: 100%; height: 100%;"
+            src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
+            loading="lazy" allow="autoplay; encrypted-media; fullscreen">
+    </iframe>
+    <noscript>
+      <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
+    </noscript>
+  </div>
 </body>
 </html>
 
-<div style="left: 0; width: 100%; height: 86px; position: relative;"><iframe src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="encrypted-media *;"></iframe></div>
+<div style="position: relative; width: 100%; height: 86px;">
+  <iframe src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
+          style="width: 100%; height: 100%; border: 0;"
+          allowfullscreen allow="autoplay; encrypted-media; fullscreen">
+  </iframe>
+  <noscript>
+    <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
+  </noscript>
+</div>
