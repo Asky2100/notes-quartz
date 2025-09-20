@@ -30,6 +30,6 @@ Animations below enlighten me much on my world views.
 - [風任せ 月影蘭](https://www.b-ch.com/titles/416/001)
 - [千年女優](https://filmarks.com/movies/3904)
 - [Mushishi (蟲師)](https://www.mushishi-anime.com/)
-- [Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)
+- [Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners) ^3e2709
 - [Steins;Gate](https://steinsgate.jp/)
 - [86-エイティシックス-](https://anime-86.com/)

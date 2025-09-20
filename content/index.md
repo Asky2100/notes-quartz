@@ -6,6 +6,7 @@ publish: true
 > [!quote]
 > - Each man is the architect of his own fate.  
 
+Music I like recently: [杏の季節](https://music.163.com/#/song?id=678093 "Paly it on NetEasy music.")
 
 # About Me
 Self-introduction is quite a difficult thing for me.
@@ -27,51 +28,6 @@ I took linguistic notes on [[lecture 1]], and you can see I learnt [[lecture 1#�
 
 [[Template]] tells what I'm trying to do in my digital garden.
 
-<div style="position: relative; width: 100%; max-width: 330px; height: 86px;">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-          style="width: 100%; height: 100%;"
-          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
-          loading="lazy" allow="autoplay; encrypted-media; fullscreen">
-  </iframe>
-  <noscript>
-    <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
-  </noscript>
-</div>
-
-My favorite song from *Cyber Punk Edge Runners*.
+**[I Really Want to Stay at Your House](https://music.163.com/#/song?id=1496089152)** is my favorite song from *[[Animation#^3e2709|Cyberpunk: Edgerunners]]*.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BgztqoQ6NHOhNg5yq8SUQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <title>嵌入网易云单曲示例</title>
-</head>
-<body>
-  <!-- type=2 表示单曲; id=12345678 是一个示例; auto=0 表示不自动播放 -->
-  <div style="position: relative; width: 100%; height: 86px;">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-            style="width: 100%; height: 100%;"
-            src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
-            loading="lazy" allow="autoplay; encrypted-media; fullscreen">
-    </iframe>
-    <noscript>
-      <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
-    </noscript>
-  </div>
-</body>
-</html>
-
-<div style="position: relative; width: 100%; height: 86px;">
-  <iframe src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
-          style="width: 100%; height: 100%; border: 0;"
-          allowfullscreen allow="autoplay; encrypted-media; fullscreen">
-  </iframe>
-  <noscript>
-    <a href="https://music.163.com/#/song?id=678093" target="_blank">Listen on NetEase Cloud Music</a>
-  </noscript>
-</div>
-
-<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://iframely.net/UXDMrelt?theme=light" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="autoplay *; encrypted-media *;"></iframe></div></div>

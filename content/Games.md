@@ -10,6 +10,8 @@ image: https://tse4.mm.bing.net/th/id/OIP.QRlQgkmhYvpWRXEtJehdaAHaHa?rs=1&pid=Im
 ---
 Here is a list of Games I played or I want to play.
 
+<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://iframely.net/0XMBJHk3?theme=light" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="autoplay *; encrypted-media *;"></iframe></div></div>
+
 - [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/?l=japanese)
 - [Rain World](https://store.steampowered.com/app/312520/Rain_World/?l=japanese)
 - [7 Years From Now (七年後で待ってる)](https://store.steampowered.com/app/1562920/7_Years_From_Now/?l=japanese)
