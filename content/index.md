@@ -37,3 +37,17 @@ My favorite song from *Cyber Punk Edge Runners*.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BgztqoQ6NHOhNg5yq8SUQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>嵌入网易云单曲示例</title>
+</head>
+<body>
+  <!-- type=2 表示单曲; id=12345678 是一个示例; auto=0 表示不自动播放 -->
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+          width="100%" height="86"
+          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66">
+  </iframe>
+</body>
+</html>
