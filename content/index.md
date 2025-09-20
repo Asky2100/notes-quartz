@@ -5,7 +5,7 @@ publish: true
 ---
 > [!quote]
 > - Each man is the architect of his own fate.  
-> - “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+
 
 # About Me
 Self-introduction is quite a difficult thing for me.
@@ -26,6 +26,11 @@ I'm haunted by it.
 I took linguistic notes on [[lecture 1]], and you can see I learnt [[lecture 1#形式语法]] last semester.
 
 [[Template]] tells what I'm trying to do in my digital garden.
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+        width="330" height="86"
+        src="https://music.163.com/outchain/player?type=2&id=678093&auto=1&height=66">
+</iframe>
 
 My favorite song from *Cyber Punk Edge Runners*.
 
