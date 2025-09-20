@@ -29,7 +29,8 @@ I took linguistic notes on [[lecture 1]], and you can see I learnt [[lecture 1#�
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
         width="330" height="86"
-        src="https://music.163.com/outchain/player?type=2&id=678093&auto=1&height=66">
+        src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
+        loading="lazy" allow="autoplay; encrypted-media">
 </iframe>
 
 My favorite song from *Cyber Punk Edge Runners*.
@@ -47,7 +48,8 @@ My favorite song from *Cyber Punk Edge Runners*.
   <!-- type=2 表示单曲; id=12345678 是一个示例; auto=0 表示不自动播放 -->
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
           width="100%" height="86"
-          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66">
+          src="https://music.163.com/outchain/player?type=2&id=678093&auto=0&height=66&mobile=1"
+          loading="lazy" allow="autoplay; encrypted-media">
   </iframe>
 </body>
 </html>
